@@ -3,7 +3,7 @@
 ```
 
 Vous êtes embauché dans une structure de la place.cette dernière décide d’utiliser docker pour le déploiement de son site web.
-Le lien GitHub du projet web se trouve à cette adresse : 
+l'application se trouve dans le dossier : site-web 
 
 Travail à faire
 
